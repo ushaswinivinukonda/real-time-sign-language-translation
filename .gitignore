@@ -1,0 +1,7 @@
+kaggle.json
+asl-dataset.zip
+asl_dataset/
+saved_models/
+*.h5
+.ipynb_checkpoints/
+__pycache__/
